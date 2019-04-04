@@ -14,8 +14,13 @@ Email: malele19931203@gmail.com
 * [DeepCTR作者的相关论文列表](https://github.com/shenweichen/DeepCTR)
 
 # 目录
-# Recommendation system and CTR Prediction 
+# 1、Recommendation system and CTR Prediction 
 
 推荐系统、计算广告、CTR预估相关论文和模型
 
-# sEMG
+# 2、sEMG
+基于肌电信号、脑电信号的动作意图解码，常用方法为：人工特征提取+机器学习算法
+
+深度学习能够实现端到端的动作识别，常用模型：一维卷积、二维卷积、多流卷积
+
+* [Electromyography data for non-invasive naturally-controlled Robotic hand prostheses](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4421935&blobtype=pdf)
