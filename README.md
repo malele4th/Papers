@@ -15,8 +15,9 @@ Email: malele19931203@gmail.com
 
 # 目录
 # 1、Recommendation system and CTR Prediction 
-
 推荐系统、计算广告、CTR预估相关论文和模型
+
+* 【FM】[Factorization Machines(2011,ICDM,IEEE International Conference on Data Mining,日本大阪大学)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.393.8529&rep=rep1&type=pdf)
 
 # 2、sEMG
 基于肌电信号、脑电信号的动作意图解码，常用方法为：人工特征提取+机器学习算法
@@ -26,9 +27,9 @@ Email: malele19931203@gmail.com
 * 【NinaPro DataSet】[Electromyography data for non-invasive naturally-controlled Robotic hand prostheses (2014,Nature,瑞士西部应用科学大学)](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4421935&blobtype=pdf)
 * 【NinaPro CNN】[Deep Learning with Convolutional Neural Networks Applied to Electromyography Data: A Resource for the Classification of Movements for Prosthetic Hands (2016,Frontiers in Neurorobotics,瑞士西部应用科学大学)](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC5013051&blobtype=pdf)
 * 【EEG CNN】[Detection of Interictal Discharges With Convolutional Neural Networks Using Discrete Ordered Multichannel Intracranial EEG (2017, IEEE Transactions on Neural Systems and Rehabilitation Engineering,英国萨里大学)](http://epubs.surrey.ac.uk/842003/1/Detection%20of%20Interictal%20Discharges%20with%20Convolutional%20Neural%20Networks%20Using%20Discrete%20Ordered%20Multichannel%20Intracranial%20EEG.pdf)
-* 【Multi-stream CNN】[Hand Gesture Recognition Based On Deep Learning Method (2018,IEEE International Conference on Data Science in Cyberspace,哈尔滨工业大学)]()
+* 【Multi-stream CNN】[Hand Gesture Recognition Based On Deep Learning Method (2018,IEEE International Conference on Data Science in Cyberspace,哈尔滨工业大学)](https://www.researchgate.net/publication/326502142_Hand_Gesture_Recognition_Based_on_Deep_Learning_Method)
 
-#### 没看的
+#### 准备看的
 * Recurrent Neural Network Based Early Prediction of Future Hand Movements
 * Recurrent Neural Networks with Weighting Loss for Early Prediction of Hand Movements
 * Surface EMG Pattern Recognition Using Long Short-Term Memory Combined with Multilayer Perceptron
