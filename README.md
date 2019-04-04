@@ -23,10 +23,10 @@ Email: malele19931203@gmail.com
 
 深度学习能够实现端到端的动作识别，常用模型：一维卷积、二维卷积、多流卷积
 
-* 【NinaPro DataSet】[Electromyography data for non-invasive naturally-controlled Robotic hand prostheses](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4421935&blobtype=pdf)(2014,Nature,瑞士西部应用科学大学)
-* 【NinaPro CNN】[Deep Learning with Convolutional Neural Networks Applied to Electromyography Data: A Resource for the Classification of Movements for Prosthetic Hands](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC5013051&blobtype=pdf)(2016,Frontiers in Neurorobotics,瑞士西部应用科学大学)
-* 【EEG CNN】[Detection of Interictal Discharges With Convolutional Neural Networks Using Discrete Ordered Multichannel Intracranial EEG](http://epubs.surrey.ac.uk/842003/1/Detection%20of%20Interictal%20Discharges%20with%20Convolutional%20Neural%20Networks%20Using%20Discrete%20Ordered%20Multichannel%20Intracranial%20EEG.pdf)(2017, IEEE Transactions on Neural Systems and Rehabilitation Engineering,英国萨里大学)
-* 【Multi-stream CNN】[Hand Gesture Recognition Based On Deep Learning Method]()(2018,IEEE International Conference on Data Science in Cyberspace)
+* 【NinaPro DataSet】[Electromyography data for non-invasive naturally-controlled Robotic hand prostheses(2014,Nature,瑞士西部应用科学大学)](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4421935&blobtype=pdf)
+* 【NinaPro CNN】[Deep Learning with Convolutional Neural Networks Applied to Electromyography Data: A Resource for the Classification of Movements for Prosthetic Hands(2016,Frontiers in Neurorobotics,瑞士西部应用科学大学)](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC5013051&blobtype=pdf)
+* 【EEG CNN】[Detection of Interictal Discharges With Convolutional Neural Networks Using Discrete Ordered Multichannel Intracranial EEG(2017, IEEE Transactions on Neural Systems and Rehabilitation Engineering,英国萨里大学)](http://epubs.surrey.ac.uk/842003/1/Detection%20of%20Interictal%20Discharges%20with%20Convolutional%20Neural%20Networks%20Using%20Discrete%20Ordered%20Multichannel%20Intracranial%20EEG.pdf)
+* 【Multi-stream CNN】[Hand Gesture Recognition Based On Deep Learning Method(2018,IEEE International Conference on Data Science in Cyberspace)]()
 
 #### 没看的
 * Recurrent Neural Network Based Early Prediction of Future Hand Movements
