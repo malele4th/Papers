@@ -23,4 +23,4 @@ Email: malele19931203@gmail.com
 
 深度学习能够实现端到端的动作识别，常用模型：一维卷积、二维卷积、多流卷积
 
-* [Electromyography data for non-invasive naturally-controlled Robotic hand prostheses](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4421935&blobtype=pdf)
+* [(NinaPro DataSet)Electromyography data for non-invasive naturally-controlled Robotic hand prostheses(2014，瑞士西部应用科学大学)](http://europepmc.org/backend/ptpmcrender.fcgi?accid=PMC4421935&blobtype=pdf)
