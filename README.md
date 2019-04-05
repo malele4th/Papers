@@ -26,6 +26,11 @@ Email: malele19931203@gmail.com
 * 【DIN】[Deep Interest Network for Click-Through Rate Prediction (2018, SIGKDD, 阿里巴巴)](https://arxiv.org/pdf/1706.06978.pdf)
 * 【YouTube】[Deep Neural Networks for YouTube Recommendations (2016, YouTube)](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BYoutube%5D%20Deep%20Neural%20Networks%20for%20YouTube%20Recommendations%20%28Youtube%202016%29.pdf)
 
+## 1-1 推荐系统最新研究进展（2018-09更新）
+[参考链接](https://mp.weixin.qq.com/s/3NStfKyn3rGmLUrgk4b9lQ)
+* [A review on deep learning for recommender systems: challenges and remedies](https://link.springer.com/article/10.1007/s10462-018-9654-y)
+
+
 # 2、sEMG
 基于肌电信号、脑电信号的动作意图解码，常用方法为：人工特征提取+机器学习算法
 
