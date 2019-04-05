@@ -24,6 +24,7 @@ Email: malele19931203@gmail.com
 * 【Deep FM】[DeepFM: A Factorization-Machine based Neural Network for CTR Prediction (2017, IJCAI, 华为+哈工大)](https://www.ijcai.org/proceedings/2017/0239.pdf)
 * 【MLR】[Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction (2017, 阿里巴巴)](https://arxiv.org/pdf/1704.05194.pdf)
 * 【DIN】[Deep Interest Network for Click-Through Rate Prediction (2018, SIGKDD, 阿里巴巴)](https://arxiv.org/pdf/1706.06978.pdf)
+* 【YouTube】[Deep Neural Networks for YouTube Recommendations (2016, YouTube)](https://github.com/wzhe06/Reco-papers/blob/master/Industry%20Recommender%20System/%5BYoutube%5D%20Deep%20Neural%20Networks%20for%20YouTube%20Recommendations%20%28Youtube%202016%29.pdf)
 
 # 2、sEMG
 基于肌电信号、脑电信号的动作意图解码，常用方法为：人工特征提取+机器学习算法
