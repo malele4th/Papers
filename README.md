@@ -29,7 +29,6 @@ Email: malele19931203@gmail.com
 ## 1-1 推荐系统最新研究进展（2018-09更新）
 [参考链接](https://mp.weixin.qq.com/s/3NStfKyn3rGmLUrgk4b9lQ)
 * [A review on deep learning for recommender systems: challenges and remedies](https://link.springer.com/article/10.1007/s10462-018-9654-y)
-综述：RBM、DBN、AE、RNN、CNN用于推荐系统
 
 
 # 2、sEMG
