@@ -1,4 +1,4 @@
-# 推荐系统、计算广告、NLP、生物信号等领域文献
+# 推荐系统、计算广告、NLP、生物信号等领域文章
 
 更新实现或阅读过的相关论文、学习资料，欢迎感兴趣的同学与我讨论相关问题，联系方式如下：
 
@@ -28,7 +28,7 @@ Email: malele19931203@gmail.com
 
 ## 1-1 推荐系统最新研究进展（2018-09更新）
 [参考链接](https://mp.weixin.qq.com/s/3NStfKyn3rGmLUrgk4b9lQ)
-* [A review on deep learning for recommender systems: challenges and remedies](https://link.springer.com/article/10.1007/s10462-018-9654-y)
+* [A review on deep learning for recommender systems: challenges and remedies](https://link.springer.com/article/10.1007/s10462-018-9654-y)(未读)
 
 
 # 2、sEMG
