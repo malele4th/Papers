@@ -34,7 +34,7 @@ QQ: 1173414827
 * [A review on deep learning for recommender systems: challenges and remedies](https://link.springer.com/article/10.1007/s10462-018-9654-y)
 
 
-# 2、sEMG
+# 2、sEMG for Deep Learning
 基于肌电信号、脑电信号的动作意图解码，常用方法为：人工特征提取+机器学习算法
 
 深度学习能够实现端到端的动作识别，常用模型：一维卷积、二维卷积、多流卷积
